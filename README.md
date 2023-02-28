@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nakum Okello
 - 👀 I’m interested in mobile app GUI development 
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning React Js.
+-    Knowledge in programming languages such as SQL, Python, Java, C
 - 📫 How to reach me 
      okellonahum12@gmail.com
 
