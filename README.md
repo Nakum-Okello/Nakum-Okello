@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Nakum-Okello
+- 👋 Hi, I’m Nakum Okello
 - 👀 I’m interested in mobile app GUI development 
-- 🌱 I’m currently learning java and python with the skills
-     In data structures.
+- 🌱 I’m currently learning React Js
 - 📫 How to reach me 
      okellonahum12@gmail.com
 
